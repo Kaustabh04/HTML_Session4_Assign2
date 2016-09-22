@@ -1,0 +1,20 @@
+*{
+    margin:15px;
+	padding:0;
+	box-sizing: border-box; 
+}
+.innerDiv{
+	background:#aed8e6;
+	padding:20px;
+	width:200px;
+	height:auto;
+	font-family:arial;
+	font-size:13px;
+	margin:25px;
+	border:1px solid black;
+}
+.outerDiv{
+	width:250px;
+	background:#00027e;
+	border:1px solid black;
+}
